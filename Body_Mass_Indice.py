@@ -20,9 +20,9 @@ Normal 		    = fg.lightcyan + "Normal"
 norm = fg.pink + "<24.9>"
 surpoids 		= fg.yellow + "Overweight"
 surp = fg.pink + "<29.9>"
-obésité 		= fg.orange + "Obese"
+obese 		= fg.orange + "Obese"
 obesi = fg.pink + "<40>"
-Obésite_morbide = fg.purple + "Extremly Obese"
+Obese_morbide = fg.purple + "Extremly Obese"
  
 
 
@@ -33,7 +33,7 @@ print(fg.pink + "\n\t\t  =========== Body Mass Index ==========\n")
 print(fg.lightcyan + "\n\t\t\t    Hit 'Enter' to quit.")
 
 print()
-print("\t{} {} {} {} {} {} {} {} {}".format(Maigreur, mai, Normal, norm, surpoids, surp, obésité, obesi, Obésite_morbide))
+print("\t{} {} {} {} {} {} {} {} {}".format(Maigreur, mai, Normal, norm, surpoids, surp, obese, obesi, Obese_morbide))
 print()
 
 
