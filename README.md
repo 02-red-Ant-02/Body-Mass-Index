@@ -8,6 +8,19 @@ Then it gonna tell you your health state based on your height and length.
 
 (Underweight, Normal, Overweight, Obese, Extremly Obese) 
 
+Screenshort
+------------
+<br>
+<img src="https://github.com/red-Ant-02/Body-Mass-Index/blob/master/Screenshot%202020-05-31%2014.50.17.png"/>
+<br>
+<br>
+<img src="https://github.com/red-Ant-02/Body-Mass-Index/blob/master/Screenshot%202020-05-31%2014.50.45.png"/>
+<br>
+<br>
+<img src="https://github.com/red-Ant-02/Body-Mass-Index/blob/master/Screenshot%202020-05-31%2014.51.19.png"/>
+<br>
+
+
 Warning
 --------
 
